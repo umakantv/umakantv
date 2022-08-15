@@ -1,18 +1,20 @@
 # Umakant Vashishtha 
 Hi, I am a Full Stack Web Developer and a Competitive Programmer. I am an undergraduate student of B.Tech at Delhi Technological University. I love learning about new technologies and designing efficient systems.
 
-<a href="https://umakantv.github.io/info/">
-  UV
+
+<a href="https://umakantv.com">
+  Website
 </a>
 <a href="mailto:umakantvashishtha98@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="left" alt="'Gmail" src="https://img.shields.io/badge/-Gmail-black?style=flat&logo=gmail" />
 </a>
 <a href="https://www.codechef.com/users/ranchov007">
-  <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+  <img align="left" alt="CodeChef" src="https://img.shields.io/badge/-Codechef-black?style=flat&logo=codechef" />
 </a>
 <a href="https://www.linkedin.com/in/umakant-vashishtha/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-black?style=flat&logo=linkedin" />
 </a>
+
 
 ### Languages and Tools :computer:
 
