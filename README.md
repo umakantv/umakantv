@@ -1,5 +1,5 @@
 # Umakant Vashishtha 
-I am a Software Engineer from India 🇮🇳 with around 3 years of experience in web and mobile development across multiple industries such as Fintech, e-commerce, entertainment, SaaS, etc. I am currently working at Razorpay as a Software Development Engineer.  
+I am a Software Engineer from India 🇮🇳 with more than 5 years of experience in web and mobile development across multiple industries such as Fintech, e-commerce, entertainment, SaaS, etc. I am currently working at Razorpay as a Software Development Engineer.  
 I am interested in Problem Solving, Application Design Patterns, Software Archicture, Product Management and also enjoy teaching Software Development. I am always trying to learn something new. Currently I am learning Kubernetes, Web3.0 and Github workflows.  
 I have strong skills in JavaScript, Typescript, React, React Native, GraphQL, Node.js, Sequelize, PostgreSQL, MongoDB, AWS.  
 I have developed cross-platform applications for Web, Android, iOS, Desktop using latest tools.  
